@@ -5,3 +5,4 @@
 2. `npm run serve`
 
 ##### AE模板库：https://lottiefiles.com/
+##### Lottie-web 仓库地址：https://github.com/airbnb/lottie-web
