@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4bc34fd-0759-4781-aa95-f1eced736d52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-lottie/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-lottie/home/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
               <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue-lottie/home/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -34,6 +43,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dist</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -45,6 +59,7 @@
         <option value="$PROJECT_DIR$/vue-lottie/src/App.vue" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/vue-lottie/home/index.html" />
       </list>
     </option>
   </component>
@@ -83,6 +98,12 @@
               <item name="Lottie-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lottie-demo" type="462c0819:PsiDirectoryNode" />
               <item name="vue-lottie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lottie-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottie-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-lottie" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,12 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1578361189438</updated>
       <workItem from="1578361190929" duration="2886000" />
-      <workItem from="1578379970579" duration="4737000" />
+      <workItem from="1578379970579" duration="4945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7623000" />
+    <option name="totallyTimeSpent" value="7831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1696" height="1036" extended-state="6" />
@@ -213,13 +234,6 @@
     <entry file="file://$PROJECT_DIR$/vue-lottie/home/js/app.5bd8cbfd.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-lottie/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue-lottie/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -259,6 +273,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-lottie/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
